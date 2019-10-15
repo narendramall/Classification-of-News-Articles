@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set()
 
-from sklearn.datasets import fetch_20newsgroups
+from sklearn.datasets import fetch_20newsgroups # here we are fetching data from sklearn.datasets
 
 data=fetch_20newsgroups()
 data.target_names
