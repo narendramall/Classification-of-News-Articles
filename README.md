@@ -1,2 +1,3 @@
 # Classification-of-News-Articles
-Classification of News Article using Natural Language Processing and Naive Bayes Classifier
+##Problem Statement:
+To perform text Classification of News Headlines and classify news into different topics for a News Website
